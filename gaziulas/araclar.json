@@ -1,0 +1,83 @@
+{
+  "araçKodları": {
+    "B": {
+      "ad": "Belediye Otobüsleri",
+      "açıklama": "Gaziantep Büyükşehir Belediyesi ve Gaziulaş tarafından işletilen turuncu renkli şehir içi otobüslerdir. Şehir merkezi ve çevre mahalleler arasında yoğun seferlerle hizmet verir. Yüksek yolcu kapasitesi ve sık hat çeşitliliği ile şehir ulaşımının ana omurgasını oluşturur.",
+      "teknikBilgi": {
+        "işletici": "Gaziulaş (Gaziantep Ulaşım A.Ş.)",
+        "hatSayısı": 90,
+        "araçTipleri": "12–18 metre dizel veya CNG otobüsler",
+        "engelliErişimi": true,
+        "klima": true,
+        "seferAralıkları": "Yoğun saatlerde 5–15 dakika, diğer saatlerde 20–30 dakika",
+        "çalışmaSaatleri": "Yaklaşık 06:00–23:30"
+      },
+      "görselLinkleri": [
+        "https://gaziulas.com.tr/wp-content/uploads/2023/01/belediye-otobusu.jpg"
+      ]
+    },
+    "S": {
+      "ad": "Özel Halk Otobüsleri",
+      "açıklama": "Belediye denetiminde çalışan, genellikle mavi veya beyaz renkli orta boy otobüslerdir. Şehir içi belirli hatlarda belediye otobüslerine ek kapasite sağlar.",
+      "teknikBilgi": {
+        "işletici": "Özel taşımacılar (Gaziulaş denetiminde)",
+        "araçTipleri": "Midibüs ve küçük otobüs",
+        "engelliErişimi": "Araç modeline göre değişken; genellikle sınırlı",
+        "klima": "Çoğunda mevcut",
+        "seferAralıkları": "Hat yoğunluğuna göre 10–20 dakika",
+        "çalışmaSaatleri": "Yaklaşık 06:00–22:00"
+      },
+      "görselLinkleri": [
+        "https://gaziulas.com.tr/wp-content/uploads/2023/01/ozel-halk-otobusu.jpg"
+      ]
+    },
+    "T": {
+      "ad": "Tramvay Hatları",
+      "açıklama": "Tamamen elektrikli raylı sistem araçlarıdır. Şehir içi ana aks boyunca üç hatta hizmet verir ve otobüslerden bağımsız olarak düzenli seferler sunar.",
+      "teknikBilgi": {
+        "işletici": "Gaziulaş",
+        "hatlar": ["T1", "T2", "T3"],
+        "araçTipleri": "Alçak tabanlı tramvay setleri",
+        "engelliErişimi": true,
+        "klima": true,
+        "seferAralıkları": "Yoğun saatlerde 5–10 dakika, diğer saatlerde 15 dakika",
+        "çalışmaSaatleri": "06:00–24:00"
+      },
+      "görselLinkleri": [
+        "https://gaziulas.com.tr/wp-content/uploads/2023/01/tramvay.jpg"
+      ]
+    },
+    "G": {
+      "ad": "Gaziray (Banliyö Treni)",
+      "açıklama": "TCDD altyapısı üzerinde çalışan, Gaziantep şehir içi ve banliyö arasında hizmet veren elektrikli tren sistemidir. İstasyonlar arasında hızlı ve düzenli bağlantı sağlar.",
+      "teknikBilgi": {
+        "işletici": "TCDD + Gaziulaş",
+        "hatUzunluğu": "25,5 km",
+        "istasyonSayısı": 16,
+        "araçTipleri": "4 vagonlu elektrikli tren setleri",
+        "engelliErişimi": true,
+        "klima": true,
+        "seferAralıkları": "Hafta içi 20 dakika, hafta sonu 30 dakika",
+        "çalışmaSaatleri": "Yaklaşık 06:00–23:00"
+      },
+      "görselLinkleri": [
+        "https://gaziray.com.tr/wp-content/uploads/2023/05/gaziray.jpg"
+      ]
+    },
+    "K": {
+      "ad": "Kırsal Otobüs Hatları",
+      "açıklama": "Gaziantep merkez ile ilçeler veya kırsal mahalleler arasında çalışan belediye otobüsleridir. Daha seyrek seferlerle uzak bölgelere erişim sağlar.",
+      "teknikBilgi": {
+        "işletici": "Gaziulaş",
+        "araçTipleri": "Şehirlerarası tip otobüs veya standart belediye otobüsü",
+        "engelliErişimi": "Sınırlı",
+        "klima": "Genelde mevcut",
+        "seferAralıkları": "70–90 dakika veya hat yoğunluğuna göre",
+        "çalışmaSaatleri": "05:30–21:00 (hatlara göre değişir)"
+      },
+      "görselLinkleri": [
+        "https://gaziulas.com.tr/wp-content/uploads/2023/01/kirsal-otobus.jpg"
+      ]
+    }
+  }
+}
