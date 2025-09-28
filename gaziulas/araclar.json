@@ -2,7 +2,7 @@
   "araçKodları": {
     "B": {
       "ad": "Belediye Otobüsleri",
-      "açıklama": "Gaziantep Büyükşehir Belediyesi ve Gaziulaş tarafından işletilen turuncu renkli şehir içi otobüslerdir. Şehir merkezi ve çevre mahalleler arasında yoğun seferlerle hizmet verir. Yüksek yolcu kapasitesi ve sık hat çeşitliliği ile şehir ulaşımının ana omurgasını oluşturur.",
+      "açıklama": "Gaziantep Büyükşehir Belediyesi ve Gaziulaş tarafından işletilen turuncu renkli şehir içi otobüslerdir. Şehir merkezi ve çevre mahalleler arasında yoğun seferlerle hizmet verir. Yüksek yolcu kapasitesi ve sık hat çeşitliliği ile şehir ulaşımının ana omurgasını oluşturur. Genellikle klima açık olur ÖHO'ya göre daha konforludur.",
       "teknikBilgi": {
         "işletici": "Gaziulaş (Gaziantep Ulaşım A.Ş.)",
         "hatSayısı": 90,
@@ -10,7 +10,7 @@
         "engelliErişimi": true,
         "klima": true,
         "seferAralıkları": "Yoğun saatlerde 5–15 dakika, diğer saatlerde 20–30 dakika",
-        "çalışmaSaatleri": "Yaklaşık 06:00–23:30"
+        "çalışmaSaatleri": "Yaklaşık 06:00–22:30"
       },
       "görselLinkleri": [
         "https://raw.githubusercontent.com/swempish/open-data/refs/heads/main/gaziulas/images/bcode.jpg"
@@ -18,14 +18,14 @@
     },
     "S": {
       "ad": "Özel Halk Otobüsleri",
-      "açıklama": "Belediye denetiminde çalışan, genellikle mavi veya beyaz renkli orta boy otobüslerdir. Şehir içi belirli hatlarda belediye otobüslerine ek kapasite sağlar.",
+      "açıklama": "Belediye denetiminde çalışan, genellikle mavi veya beyaz renkli orta boy otobüslerdir. Şehir içi belirli hatlarda belediye otobüslerine ek kapasite sağlar. Bu hatları özel taşımacılar işlettiği için şoförler bazı duraklarda durmayabiliyor, geç gelebiliyor, rotasının dışına çıkabiliyor, sıcak havalarda klima açmayabiliyor. Ayrıca akşam vakitlerinde şoförler sefere çıkmayabiliyor ya da durakları yolcu almadan geçebiliyor. Yolda kalmamak için bunları aklınızda bulundurun. Belediye otobüsleri ve şoförleri hakkında da olumsuz yorumlar olmasına rağmen ÖHO'da bu tarz yorumlar daha fazla.",
       "teknikBilgi": {
         "işletici": "Özel taşımacılar (Gaziulaş denetiminde)",
         "araçTipleri": "Midibüs ve küçük otobüs",
         "engelliErişimi": "Genellikle sınırlı",
         "klima": "Çoğunda mevcut",
         "seferAralıkları": "Hat yoğunluğuna göre 10–20 dakika",
-        "çalışmaSaatleri": "Yaklaşık 06:00–22:00"
+        "çalışmaSaatleri": "Yaklaşık 06:00–22:00 (20:00 sonrası gelmeyebiliyor)"
       },
       "görselLinkleri": [
         "https://raw.githubusercontent.com/swempish/open-data/refs/heads/main/gaziulas/images/scode.jpg"
@@ -33,7 +33,7 @@
     },
     "T": {
       "ad": "Tramvay Hatları",
-      "açıklama": "Tamamen elektrikli raylı sistem araçlarıdır. Şehir içi ana aks boyunca üç hatta hizmet verir ve otobüslerden bağımsız olarak düzenli seferler sunar.",
+      "açıklama": "Tamamen elektrikli raylı sistem araçlarıdır. Şehir içi ana aks boyunca üç hatta hizmet verir ve otobüslerden bağımsız olarak düzenli seferler sunar. Engelli erişimi olan araçlar alçak tabanlı, kliması biraz daha kısıtlı olan araçlar oluyor. Engelli erişimi olmayanlar yüksek tabanlı (merdivenle çıkılan) kliması çoğunlukla çalışan araçlar oluyor.",
       "teknikBilgi": {
         "işletici": "Gaziulaş",
         "hatlar": ["T1", "T2", "T3"],
@@ -41,7 +41,7 @@
         "engelliErişimi": true,
         "klima": true,
         "seferAralıkları": "Yoğun saatlerde 5–10 dakika, diğer saatlerde 15 dakika",
-        "çalışmaSaatleri": "06:00–24:00"
+        "çalışmaSaatleri": "06:00–23:30"
       },
       "görselLinkleri": [
         "https://raw.githubusercontent.com/swempish/open-data/refs/heads/main/gaziulas/images/tcode.jpg"
@@ -49,7 +49,7 @@
     },
     "G": {
       "ad": "Gaziray (Banliyö Treni)",
-      "açıklama": "TCDD altyapısı üzerinde çalışan, Gaziantep şehir içi ve banliyö arasında hizmet veren elektrikli tren sistemidir. İstasyonlar arasında hızlı ve düzenli bağlantı sağlar.",
+      "açıklama": "TCDD altyapısı üzerinde çalışan, Gaziantep şehir içi ve banliyö arasında hizmet veren elektrikli tren sistemidir. İstasyonlar arasında hızlı ve düzenli bağlantı sağlar. Başpınar’dan başlayıp Taşlıca’da sona ererek sanayi bölgelerini şehir merkezi üzerinden bağlar.",
       "teknikBilgi": {
         "işletici": "TCDD + Gaziulaş",
         "hatUzunluğu": "25,5 km",
