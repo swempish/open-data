@@ -13,7 +13,7 @@
         "çalışmaSaatleri": "Yaklaşık 06:00–23:30"
       },
       "görselLinkleri": [
-        "https://gaziulas.com.tr/wp-content/uploads/2023/01/belediye-otobusu.jpg"
+        "https://raw.githubusercontent.com/swempish/open-data/refs/heads/main/gaziulas/images/bcode.jpg"
       ]
     },
     "S": {
@@ -28,7 +28,7 @@
         "çalışmaSaatleri": "Yaklaşık 06:00–22:00"
       },
       "görselLinkleri": [
-        "https://gaziulas.com.tr/wp-content/uploads/2023/01/ozel-halk-otobusu.jpg"
+        "https://raw.githubusercontent.com/swempish/open-data/refs/heads/main/gaziulas/images/scode.jpg"
       ]
     },
     "T": {
@@ -44,7 +44,7 @@
         "çalışmaSaatleri": "06:00–24:00"
       },
       "görselLinkleri": [
-        "https://gaziulas.com.tr/wp-content/uploads/2023/01/tramvay.jpg"
+        "https://raw.githubusercontent.com/swempish/open-data/refs/heads/main/gaziulas/images/tcode.jpg"
       ]
     },
     "G": {
@@ -61,7 +61,7 @@
         "çalışmaSaatleri": "Yaklaşık 06:00–23:00"
       },
       "görselLinkleri": [
-        "https://gaziray.com.tr/wp-content/uploads/2023/05/gaziray.jpg"
+        "https://raw.githubusercontent.com/swempish/open-data/refs/heads/main/gaziulas/images/gcode.jpg"
       ]
     },
     "K": {
@@ -76,7 +76,7 @@
         "çalışmaSaatleri": "05:30–21:00 (hatlara göre değişir)"
       },
       "görselLinkleri": [
-        "https://gaziulas.com.tr/wp-content/uploads/2023/01/kirsal-otobus.jpg"
+        "https://raw.githubusercontent.com/swempish/open-data/refs/heads/main/gaziulas/images/kcode.jpg"
       ]
     }
   }
